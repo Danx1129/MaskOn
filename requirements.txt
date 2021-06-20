@@ -1,0 +1,5 @@
+Opencv-python
+PILLOW
+numpy
+Tensorflow
+Mediapipe
